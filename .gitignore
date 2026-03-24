@@ -1,0 +1,13 @@
+*.pyc
+__pycache__/
+*.o
+.DS_Store
+.vs/
+bin/
+obj/
+*.user
+*.suo
+.vscode/
+*.egg-info/
+dist/
+build/
